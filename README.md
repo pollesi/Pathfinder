@@ -1,4 +1,4 @@
-# ByteSight: Dispositivo Vestível de Assistência e Segurança
+# ByteSight: Dispositivo de Assistência e Segurança para Deficientes Visuais
 
 ## Autores
 Este projeto foi desenvolvido como requisito avaliativo para a discuplina de Projeto Integrado de Computação I do curso de Engenharia de Computação - UFES.
