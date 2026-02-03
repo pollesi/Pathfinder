@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como requisito avaliativo para a discuplina de Pro
 * **João Paulo Pollesi** - Desenvolvimento de Hardware e Software
 * **João Vitor Teixeira** - Desenvolvimento de Hardware e Software
 * **Djalma Salvador** - Desenvolvimento de Hardware e Software
-* 
+
 * **Prof. Jadir Eduardo Souza Lucas** - Orientador
 
 ## Resumo
