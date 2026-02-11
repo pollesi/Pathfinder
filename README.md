@@ -1,4 +1,4 @@
-# Pathfinder: Dispositivo de Assistência e Segurança para Deficientes Visuais
+# ByteSight: Dispositivo de Assistência e Segurança para Deficientes Visuais
 
 ## Autores
 Este projeto foi desenvolvido como requisito avaliativo para a disciplina de Projeto Integrado de Computação I do curso de Engenharia de Computação - UFES.
